@@ -79,7 +79,7 @@ const Footer = () => {
           </p>
           <p>
             &copy; 2022{" "}
-            <a href="https://shubhporwal.me" target="_blank" rel="noreferrer">
+            <a href="https://github.com/saifullah72437" target="_blank" rel="noreferrer">
               Shubh Porwal
             </a>
           </p>
