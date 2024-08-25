@@ -80,7 +80,7 @@ const Footer = () => {
           <p>
             &copy; 2022{" "}
             <a href="https://github.com/saifullah72437" target="_blank" rel="noreferrer">
-              Shubh Porwal
+              Saifullah Khan
             </a>
           </p>
         </span>
